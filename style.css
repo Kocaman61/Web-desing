@@ -1,0 +1,292 @@
+body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    
+    background: #ffffff;
+}
+
+
+/* navbar */
+.navbar {
+    
+    background: linear-gradient(to right, #3a3a3a, #d8d8d8);
+    width: 100%;
+    height: 70px;
+}
+/* textloginmenu */
+.textloginmenu {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: cursive;
+    text-decoration: none;
+    padding-left: 50px;
+}
+.textloginmenu:hover {
+    color: #13c4a3;
+}
+/* ------------------------- */
+
+/*textapplicationmenu*/
+.textapplicationmenu {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: cursive;
+    text-decoration: none;
+    padding-left: 50px;
+    
+}
+.textapplicationmenu:hover {
+    color: #13c4a3;
+}
+/* ------------------------- */
+/* texttitlenav */
+.texttitlenav {
+    color: #320e3b;
+    font-size: 40px;
+    font-family: cursive;
+    text-decoration: none;
+    padding-left: 100px;
+    
+}
+/* ana sayfa */
+.texthomepagetitle {
+    margin-left: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+/* footer */
+footer {
+    width: 100%;
+    height: 300px;
+    background: #1f1322;
+}
+.footertext {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #ffffff;
+}
+.maillinktext {
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding-left: 550px;
+    
+}
+.maillinktext:hover {
+    text-decoration: none;
+    color: brown;
+}
+.tellinktext {
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding-left: 50px;
+}
+.tellinktext:hover {
+    text-decoration: none;
+    color: brown;
+}
+/* --------------- */
+/* kutular */
+/*birinci satır*/
+.appkutu1 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.appkutu2 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 190px;
+    margin-top: -160px;
+    border-radius: 10px;
+}
+.appkutu3 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 360px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu4 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 530px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu5 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 700px;
+    margin-top: -140px;
+    border-radius: 10px;
+    display: block;
+}
+.appkutu6 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 870px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu7 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 1040px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu8 {
+    background:#262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 1205px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+/*2. satır*/
+.appkutu9 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin: 20px;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+.appkutu10 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 190px;
+    margin-top: -160px;
+    border-radius: 10px;
+}
+.appkutu11 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 360px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu12 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 530px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu13 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 700px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu14 {
+    background:#262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 870px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu15 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 1040px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu16 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 1205px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+/*3.satır*/
+.appkutu17 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin: 20px;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+.appkutu18 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 190px;
+    margin-top: -160px;
+    border-radius: 10px;
+}
+.appkutu19 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 360px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu20 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 530px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu21 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 700px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu22 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 870px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu23 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 1040px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+.appkutu24 {
+    background: #262626;
+    width: 140px;
+    height: 140px;
+    margin-left: 1205px;
+    margin-top: -140px;
+    border-radius: 10px;
+}
+
+
+div:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
